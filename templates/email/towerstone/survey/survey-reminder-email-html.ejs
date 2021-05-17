@@ -1,0 +1,43 @@
+<style>
+        body {
+            font-size:13px; 
+            font-family:verdana;
+        };
+    
+        p {
+            margin: 3px !important;
+        };
+    </style>
+    <div style="font-size:13px; font-family:verdana">    
+        <p>Dear <%= assessor.firstName %>,<br /><br />
+            <% if(isSelfAssessment){ %>
+            Please remember to complete your personal <%= organization.name %> Leadership Brand 360° assessment. As explained in previous communications, you are required to complete a self-assessment for comparison with the input provided by your nominees.<br /><br />
+            <br /><br />The collective assessment feedback provides valuable insight into how you are showing up as a leader i.e. how well or poorly you display the Leadership Brand behaviours. It also provides insight into where you feel you are performing well, but where others may not feel the same way, and vice versa.<br />
+            When assessing yourself, please note the following:
+                <ul>
+                    <li>You are describing how/to what extent you believe you are living the Leadership Brand behaviour, and not describing what the Leadership Brand behaviour actually means.</li>
+                    <li>Full sentences are required i.e. comments such as “as above” are not suitable. Stating this provides no useful insight as this is an anonymous assessment, meaning that it is not possible to track what “as above” refers to.</li>
+                </ul>
+            <br />
+            <% } else{ %>
+            <%= delegate.firstName %> is still looking forward to receiving the assessment feedback report that will include your anonymous input regarding how they show up as a leader i.e. how well or poorly <%= delegate.firstName %> displays the Leadership Brand behaviours.<br /><br />
+            You are required to please rate <%= delegate.firstName %> on each behaviour and provide feedback. Your assessment is absolutely confidential, thus it is important that you provide honest, constructive feedback.<br /><br />
+            When giving personal (but anonymous) feedback, please note the following:<br />
+                <ul>
+                    <li>You are describing how/to what extent that Leadership Brand behaviour is being lived by the person you are assessing, and not describing what the Leadership Brand behaviour actually means.</li>
+                    <li>Full sentences are required i.e. comments such as “as above” are not suitable. Stating this provides no useful insight as this is an anonymous assessment, meaning that it is not possible to track what “as above” refers to.</li>
+                </ul>             
+            <% } %>            
+                The assessments will run until <%= timeEnd %>  on <%= dateEnd %>. As such, please complete the assessment as soon as you have a moment.<br /><br />
+            Please note that this survey is also compatible with mobile and tablet devices.<br /><br />
+            <a clicktracking="off" href="<%= assessmentLink %>">Click here to start the assessment.</a><br /><br />
+            Should you wish to sign in using your username (<%= assessor.email %>), please <a clicktracking="off" href="<%= partner.siteUrl %>/login" target="_blank">click here</a> and follow the instructions on screen.<br /><br />
+            Please remember your password as you may be required to assess other colleagues as well.<br /><br />
+            Thank you for your contribution,<br />
+            TowerStone Leadership Centre Assessment team<br />     
+            <img alt="TowerStone Engage" src="<%= partner.themeOptions.assets.emailLogo %>" style="width: 200px;" width="200px" />
+            <p>
+                <small><i>The TowerStone assessment platform requires that you use a modern browser on your computer, smartphone or tablet device. Internet Explorer 11, Edge and the latest versions of Firefox and Chrome are fully supported.  Older versions of Internet Explorer 8, 9, 10 are unfortunately not supported.</i></small>
+            </p>
+        </p>
+</div>
