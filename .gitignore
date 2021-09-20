@@ -29,13 +29,8 @@ profiles/*
 survey/*
 temp/*
 testing/
-themes/aot/
-themes/evalue/
-themes/fhunisave/
-themes/lasec-crm/
-themes/plc/
-themes/towerstone/
-themes/thinklead/
+themes/**
+!theme/reactory/**
 thumbor/
 ui/
 www/html/
