@@ -1,1 +1,1 @@
-This is the folder 
+This is the folder where builds are placed when uploaded via the reactory server.
