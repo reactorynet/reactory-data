@@ -6,7 +6,15 @@ content/images/*
 !content/images/readme.md
 content/videos/*
 !content/videos/readme.md
+!content/readme.md
 content/*
+!content/static-content/about-reactory-platform.html
+!content/static-content/reactory-application-intro-reactory-application.html
+!content/static-content/reactory-docs-root.html
+!content/static-content/reactory-docs-development-client.html
+!content/static-content/reactory-docs-development-server.html
+!content/static-content/reactory-docs-development-styling.html
+!content/static-content/reactory-docs-development-fundamentals.html
 !content/readme.md
 database/*
 !database/readme.md
