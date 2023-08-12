@@ -1,0 +1,21 @@
+{
+  "reactory.application.title": "Reactory Application",
+  "reactory.menu.myapplications": "My Applications",
+  "reactory.menu.documentation": "Documentation",
+  "reactory.menu.documentation-development-fundamentals": "Development Fundamentals",
+  "reactory.menu.documentation-development-server": "Module Development",
+  "reactory.menu.documentation-development-client": "Client Development",
+  "reactory.menu.documentation-styling": "Styling",
+  "reactory.menu.forms": "Reactory Forms",
+  "reactory.menu.graphiql": "GraphiQL",
+  "reactory.menu.profile": "My Profile",
+  "reactory.menu.about-reactory": "About Reactory",
+  "reactory.menu.support": "Support",
+  "reactory.menu.support-request": "Request Help",
+  "reactory.menu.organizations": "Organizations",
+  "reactory.menu.my-support-requests": "My Support Requests",
+  "reactory.applications.emptyIntro": "No introduction",
+  "reactory.applications.more-user": "Learn More",
+  "reactory.applications.more-admin": "Manage",
+  "reactory.applications.launch": "Launch App"
+}

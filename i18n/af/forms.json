@@ -1,0 +1,9 @@
+{
+  "applicationTitle": "Toepe",
+  "reactory.applications.title": "My Toepe",
+  "reactory.applications.available": "Beskibare Toepe",
+  "reactory.applications.properties.title": "Toep naam",  
+  "reactory.applications.properties.greeting": "Welkom by jou toep stasie {{user.firstName}}",
+  "confirm.deleteticketsaction.dialog.content": "Verwyder die {{selected.length}} dokumented",
+  "confirm.deleteticketsaction.dialog.title": "Bevestig verwydering."
+}
