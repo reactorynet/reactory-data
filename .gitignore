@@ -30,6 +30,7 @@ organization/*
 !organization/default/
 plugins/*
 !plugins/readme.md
+!plugins/graphiql/index.html
 profiles/*
 !profiles/default/
 !profiles/reactory/
