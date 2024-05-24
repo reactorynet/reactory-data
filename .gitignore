@@ -44,3 +44,4 @@ thumbor/
 ui/
 www/html/
 search/*
+.DS_Store
