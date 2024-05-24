@@ -43,3 +43,4 @@ themes/**
 thumbor/
 ui/
 www/html/
+search/*
