@@ -57,5 +57,7 @@
   "support-ticket.model.documents.title": "Support Documents",
   "support-ticket.model.documents.description": "Documents that have been added to the support document",
   "support-ticket.model.formId.title": "Form ID",
-  "support-ticket.model.formId.description": "The ID of the form that was used to create the ticket"
+  "support-ticket.model.formId.description": "The ID of the form that was used to create the ticket",
+
+  "support-ticket.notification.onCreated": "Your request (${formData.reference}) has been generated. You will receive further communication via your preferred channel."
 }
