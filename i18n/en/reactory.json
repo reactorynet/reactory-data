@@ -59,5 +59,8 @@
   "support-ticket.model.formId.title": "Form ID",
   "support-ticket.model.formId.description": "The ID of the form that was used to create the ticket",
 
-  "support-ticket.notification.onCreated": "Your request (${formData.reference}) has been generated. You will receive further communication via your preferred channel."
+  "support-ticket.notification.onCreated": "Your request (${formData.reference}) has been generated. You will receive further communication via your preferred channel.",
+
+  "support-ticket.ticket-grid.add-ticket-button.tooltip": "Add a new ticket",
+  "support-ticket.ticket-grid.delete-ticket-button.tooltip": "Delete the selected ticket(s)"
 }
