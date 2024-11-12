@@ -62,5 +62,8 @@
   "support-ticket.notification.onCreated": "Your request (${formData.reference}) has been generated. You will receive further communication via your preferred channel.",
 
   "support-ticket.ticket-grid.add-ticket-button.tooltip": "Add a new ticket",
-  "support-ticket.ticket-grid.delete-ticket-button.tooltip": "Delete the selected ticket(s)"
+  "support-ticket.ticket-grid.delete-ticket-button.tooltip": "Delete the selected ticket(s)",
+  
+  "support-ticket.delete-action.form.title": "Delete Ticket",
+  "support-ticket.delete-action.form.ticket-reference-title": "Ticket Ref {{ticketRef}}"
 }
