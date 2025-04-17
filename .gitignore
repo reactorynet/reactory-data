@@ -48,4 +48,6 @@ thumbor/
 ui/
 www/html/
 search/*
+# Ignore all .DS_Store files universally
 .DS_Store
+**/.DS_Store
