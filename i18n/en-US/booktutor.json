@@ -1,0 +1,16 @@
+{
+  "reactory.application.title": "Book Tutor",
+  "reactory.menu.home": "Home",
+  "reactory.menu.about-booktutor": "About Book Tutor",
+  "reactory.menu.documentation": "Documentation",  
+  "reactory.menu.admin-organizations": "Organizations",
+  
+  "reactory.menu.admin-users": "Users",
+  "reactory.menu.admin": "System Admin",
+  "reactory.menu-admin-workflow": "Workflow Admin",
+  "reactory.menu-admin-workflow-editor": "Workflow Editor",
+
+  "reactory.menu.my-schedule": "Schedule",
+  "reactory.menu.my-courses": "Courses",
+  "reactory.menu.my-tutors": "Tutors"
+}

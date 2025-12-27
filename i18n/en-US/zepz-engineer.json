@@ -1,0 +1,9 @@
+{
+  "reactory.application.title": "ZEPZ Engineer",
+  "reactory.menu.home": "Observatory",
+  "reactory.menu.about-zepz": "About ZEPZ Payout",
+  "reactory.menu.documentation": "Payout Documentation",
+
+   "leaderboard.configure-synchronization.title": "Settings",
+  "leaderboard.configure-synchronization.tooltip": "Configure the synchronization of the leaderboard"
+}

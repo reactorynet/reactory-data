@@ -19,7 +19,15 @@
   "reactory.applications.more-admin": "Manage",
   "reactory.applications.launch": "Launch App",
   "reactory.menu.reactor": "Reactory Reactor",
-
+  "reactory.menu.service-list": "Service Catalogue",
+  "reactory.menu.service-graph": "Service Graph",
+  "reactory.menu.service-home": "Service Home",
+  "reactory.menu.workflows": "Workflows",
+  "reactory.menu.workflows-instances-management": "Workflow Instances",
+  "reactory.menu.workflows-editor": "Workflow Editor",
+  "reactory.menu.workflows-operations-dashboard": "Operations Dashboard",
+  "reactory.menu.workflows-system-dashboard": "System Dashboard",
+  "reactory.menu.workflows-launch-workflow": "Launch Workflow",
   "support-ticket.model.title": "Ticket",
   "support-ticket.model.description": "Manage a support ticket",
 

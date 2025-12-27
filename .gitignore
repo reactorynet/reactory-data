@@ -51,3 +51,6 @@ search/*
 # Ignore all .DS_Store files universally
 .DS_Store
 **/.DS_Store
+guideai/*
+workflows/*
+forms/images/*
