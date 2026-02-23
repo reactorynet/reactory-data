@@ -1,0 +1,11 @@
+[
+  {
+    "id": "reactory-client-core",
+    "name": "RectoryClientCorePlugin",
+    "key": "reactory-client-core",
+    "fqn": "client-core.RReactoryClientCore@1.0.0",  
+    "license": "MIT",
+    "git": "git@github.com:reactorynet/reactory-client-core-plugin.git",
+    "shop": "https://reactory.net/shop/client-plugins/reactory-client-core"
+  }
+]

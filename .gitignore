@@ -18,6 +18,9 @@ content/*
 !content/readme.md
 database/*
 !database/readme.md
+i18n/*
+!i18n/readme.md
+!i18n/*/reactory.json
 imports/*
 !imports/readme.md
 lib/*
@@ -29,6 +32,7 @@ nginx/*
 organization/*
 !organization/default/
 plugins/*
+!plugins/available.json
 !plugins/readme.md
 !plugins/__runtime__/package.json
 !plugins/__runtime__/readme.md
