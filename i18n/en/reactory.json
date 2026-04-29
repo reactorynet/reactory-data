@@ -28,6 +28,10 @@
   "reactory.menu.workflows-operations-dashboard": "Operations Dashboard",
   "reactory.menu.workflows-system-dashboard": "System Dashboard",
   "reactory.menu.workflows-launch-workflow": "Launch Workflow",
+  "reactory.menu.ai-admin": "AI Administration",
+  "reactory.menu.ai-admin-budgets": "User Budgets",
+  "reactory.menu.ai-admin-usage": "Usage Dashboards",
+  "reactory.menu.my-ai-usage": "My AI Usage",
   "support-ticket.model.title": "Ticket",
   "support-ticket.model.description": "Manage a support ticket",
 
