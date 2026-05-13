@@ -47,7 +47,7 @@ profiles/*
 temp/*
 testing/
 themes/**
-!theme/reactor*/**
+!themes/reactor*/**
 thumbor/
 ui/
 www/html/
