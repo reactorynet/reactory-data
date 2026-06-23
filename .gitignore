@@ -40,6 +40,7 @@ plugins/*
 !plugins/__runtime__/yarn.lock
 !plugins/__runtime__/lib/.gitkeep
 !plugins/__runtime__/artifacts/.gitkeep
+!plugins/__runtime__/build.sh
 !plugins/graphiql/*
 profiles/*
 !profiles/default/
