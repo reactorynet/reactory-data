@@ -34,6 +34,7 @@ organization/*
 plugins/*
 !plugins/available.json
 !plugins/readme.md
+!plugins/__runtime__/
 !plugins/__runtime__/package.json
 !plugins/__runtime__/readme.md
 !plugins/__runtime__/tsconfig.json
@@ -41,6 +42,11 @@ plugins/*
 !plugins/__runtime__/lib/.gitkeep
 !plugins/__runtime__/artifacts/.gitkeep
 !plugins/__runtime__/build.sh
+plugins/__runtime__/rollup.*
+plugins/__runtime__/lib/*
+!plugins/__runtime__/lib/.gitkeep
+plugins/__runtime__/.yarn/*
+plugins/__runtime__/src/*
 !plugins/graphiql/*
 profiles/*
 !profiles/default/
