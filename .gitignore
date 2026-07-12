@@ -48,6 +48,7 @@ plugins/__runtime__/lib/*
 plugins/__runtime__/.yarn/*
 plugins/__runtime__/src/*
 !plugins/graphiql/*
+plugins/__runtime__/node_modules/*
 profiles/*
 !profiles/default/
 !profiles/reactory/
