@@ -27,6 +27,17 @@
   "reactory.menu.admin": "System Admin",
   "reactory.menu-admin-workflow": "Workflow Admin",
   "reactory.menu-admin-workflow-editor": "Workflow Editor",
+  "reactory.menu.my-schedule": "Skedule",
+  "reactory.menu.my-courses": "My Kursusse",
+  "reactory.menu.my-tutors": "My Tutors",
+  "reactory.menu.my-students": "My Studente",
+  "reactory.menu.my-owned-courses": "Kursusse Aangebied",
+  "reactory.menu.classes": "Klasse & Kohorte",
+  "reactory.menu.create-course": "Skep Kursus",
+  "reactory.menu.create-assignment": "Skep Taak",
+  "reactory.menu.course-enroll": "Kursus Registrasie",
+  "reactory.menu.assignments": "Opdragte",
+  "reactory.menu.markbook": "Punteboek",
   "leaderboard.configure-synchronization.title": "Configure Synchronization",
   "leaderboard.configure-synchronization.tooltip": "Configure the synchronization of the leaderboard"
 }
