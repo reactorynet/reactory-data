@@ -93,5 +93,14 @@
   "support-ticket.notification.onCreated": "Your request (${formData.reference}) has been generated. You will receive further communication via your preferred channel.",
 
   "support-ticket.ticket-grid.add-ticket-button.tooltip": "Add a new ticket",
-  "support-ticket.ticket-grid.delete-ticket-button.tooltip": "Delete the selected ticket(s)"
+  "support-ticket.ticket-grid.delete-ticket-button.tooltip": "Delete the selected ticket(s)",
+
+  "reactory.organizations.organization_name": "Organization Name",
+  "reactory.organizations.organization_name_placeholder": "eg: ACME CORP",
+  "reactory.organizations.create_new_cta": "Create Organization",
+  "reactory.organizations.select_organization": "Select Organisation",
+  "profile.memberships.root-membership.label": "Root Membership",
+  "reactory.workflow.designer.propertiesPanel.title": "Properties",
+  "reactory-core.form.errors.schema.missingItemsSchema": "Array field schema is missing items definition.",
+  "common.search": "Search"
 }
