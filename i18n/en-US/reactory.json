@@ -7,6 +7,13 @@
   "reactory.menu.documentation-development-client": "Client Development",
   "reactory.menu.documentation-styling": "Styling",
   "reactory.menu.forms": "Reactory Forms",
+  "reactory.menu.forms-favourites": "Favorites",
+  "reactory.menu.form-editor": "Form Editor",
+  "reactory.menu.data-api": "Data / APIs",
+  "reactory.menu.graphql-editor": "GraphQL Editor",
+  "reactory.menu.sql-editor": "SQL Query Editor",
+  "reactory.menu.rest-caller": "REST Caller",
+  "reactory.menu.grpc-invoker": "gRPC Method Invoker",
   "reactory.menu.graphiql": "GraphiQL",
   "reactory.menu.profile": "Profile",
   "reactory.menu.about-reactory": "About Reactory",
@@ -80,5 +87,14 @@
   "support-ticket.ticket-grid.delete-ticket-button.tooltip": "Delete the selected ticket(s)",
   
   "support-ticket.delete-action.form.title": "Delete Ticket",
-  "support-ticket.delete-action.form.ticket-reference-title": "Ticket Ref {{ticketRef}}"
+  "support-ticket.delete-action.form.ticket-reference-title": "Ticket Ref {{ticketRef}}",
+
+  "reactory.organizations.organization_name": "Organization Name",
+  "reactory.organizations.organization_name_placeholder": "eg: ACME CORP",
+  "reactory.organizations.create_new_cta": "Create Organization",
+  "reactory.organizations.select_organization": "Select Organisation",
+  "profile.memberships.root-membership.label": "Root Membership",
+  "reactory.workflow.designer.propertiesPanel.title": "Properties",
+  "reactory-core.form.errors.schema.missingItemsSchema": "Array field schema is missing items definition.",
+  "common.search": "Search"
 }

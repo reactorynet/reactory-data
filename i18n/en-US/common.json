@@ -1,3 +1,9 @@
 {
-  "reactory.brand.slogan": "Prototype. Improve. Repeat."
+  "reactory.brand.slogan": "Prototype. Improve. Repeat.",
+  "common.search": "Search",
+  "table.collapseAll": "Collapse All",
+  "table.expandAll": "Expand All",
+  "table.deselectAll": "Deselect All",
+  "table.selectAll": "Select All",
+  "reactory.validation.required": "Required"
 }
