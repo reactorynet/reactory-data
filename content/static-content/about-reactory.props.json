@@ -1,0 +1,19 @@
+{
+  "title": "About Reactory Platform",
+  "description": "An introduction to the Reactory Low-Code & AI Application Platform.",
+  "topics": [
+    "reactory",
+    "architecture",
+    "overview",
+    "ai-agents",
+    "low-code"
+  ],
+  "roles": [
+    "USER",
+    "ANON"
+  ],
+  "published": true,
+  "createdBy": {
+    "email": "system@reactory.net"
+  }
+}
