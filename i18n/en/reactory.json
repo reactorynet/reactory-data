@@ -16,7 +16,6 @@
   "reactory.menu.sql-editor": "SQL Query Editor",
   "reactory.menu.rest-caller": "REST Caller",
   "reactory.menu.grpc-invoker": "gRPC Method Invoker",
-  "reactory.menu.graphiql": "GraphiQL",
   "reactory.menu.profile": "My Profile",
   "reactory.menu.about-reactory": "About Reactory",
   "reactory.menu.support": "Support",

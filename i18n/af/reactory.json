@@ -16,7 +16,6 @@
   "reactory.menu.sql-editor": "SQL-navraagredigeerder",
   "reactory.menu.rest-caller": "REST-roeper",
   "reactory.menu.grpc-invoker": "gRPC-metodeoproeper",
-  "reactory.menu.graphiql": "GraphiQL",
   "reactory.menu.profile": "My Profiel",
   "reactory.menu.about-reactory": "Oor Reactory",
   "reactory.menu.support": "Ondersteuning",
