@@ -1,6 +1,7 @@
 {
   "reactory.application.title": "Reactory Toep",
   "reactory.menu.myapplications": "My Toepe",
+  "reactory.menu.my-comments": "My Kommentaar",
   "reactory.menu.documentation": "Dokumentasie",
   "reactory.menu.documentation-development-fundamentals": "Ontwikkelingsgrondbeginsels",
   "reactory.menu.documentation-development-server": "Module Ontwikkeling",
@@ -35,6 +36,7 @@
   "reactory.menu.reactor-ai-providers": "KI-Verskaffers",
   "reactory.menu.reactor-ai-models": "KI-Modelle",
   "reactory.menu.my-ai-usage": "My KI-Gebruik",
+  "reactory.menu.my-ai-budget": "My KI-Begroting",
   "reactory.applications.emptyIntro": "Geen inleiding",
   "reactory.applications.more-user": "Leer Meer",
   "reactory.applications.more-admin": "Bestuur",
