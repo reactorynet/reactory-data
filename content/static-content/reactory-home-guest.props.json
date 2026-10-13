@@ -1,0 +1,19 @@
+{
+  "title": "Welcome to Reactory",
+  "description": "Enterprise applications, defined as data. Low-code forms, durable workflows, and AI agents.",
+  "topics": [
+    "reactory",
+    "landing",
+    "guest",
+    "overview",
+    "welcome"
+  ],
+  "roles": [
+    "ANON",
+    "USER"
+  ],
+  "published": true,
+  "createdBy": {
+    "email": "system@reactory.net"
+  }
+}

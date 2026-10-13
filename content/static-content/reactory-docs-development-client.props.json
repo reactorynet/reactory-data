@@ -1,0 +1,24 @@
+{
+  "title": "Client Development",
+  "description": "Building dynamic user interfaces, custom widgets, React components, routing, and plugins on the Reactory PWA Client.",
+  "topics": [
+    "reactory",
+    "client",
+    "pwa",
+    "react",
+    "forms",
+    "widgets",
+    "plugins",
+    "routing"
+  ],
+  "roles": [
+    "USER",
+    "DEVELOPER",
+    "DEVELOPER-CLIENT",
+    "ADMIN"
+  ],
+  "published": true,
+  "createdBy": {
+    "email": "system@reactory.net"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Module Development",
+  "description": "Comprehensive guide to developing, registering, and maintaining backend server modules in Reactory Express Server.",
+  "topics": [
+    "reactory",
+    "backend",
+    "modules",
+    "graphql",
+    "services",
+    "workflows",
+    "models"
+  ],
+  "roles": [
+    "USER",
+    "DEVELOPER",
+    "DEVELOPER-BACKEND",
+    "ADMIN"
+  ],
+  "published": true,
+  "createdBy": {
+    "email": "system@reactory.net"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Styling & Theming",
+  "description": "Design system architecture, Material UI v5 integration, custom themes, dark/light mode palette configuration, and component styling in Reactory.",
+  "topics": [
+    "reactory",
+    "styling",
+    "theming",
+    "mui",
+    "design-system",
+    "css",
+    "dark-mode"
+  ],
+  "roles": [
+    "USER",
+    "DEVELOPER",
+    "DEVELOPER-STYLING",
+    "ADMIN"
+  ],
+  "published": true,
+  "createdBy": {
+    "email": "system@reactory.net"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Reactory Documentation",
+  "description": "Developer guides, architecture specifications, and platform documentation for the Reactory Platform.",
+  "topics": [
+    "reactory",
+    "docs",
+    "documentation",
+    "developer",
+    "overview"
+  ],
+  "roles": [
+    "USER",
+    "DEVELOPER",
+    "ADMIN"
+  ],
+  "published": true,
+  "createdBy": {
+    "email": "system@reactory.net"
+  }
+}

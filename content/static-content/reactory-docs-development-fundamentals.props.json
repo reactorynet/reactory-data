@@ -1,0 +1,21 @@
+{
+  "title": "Development Fundamentals",
+  "description": "Core concepts, architecture, local environment setup, and developer workflows for building on the Reactory Platform.",
+  "topics": [
+    "reactory",
+    "development",
+    "fundamentals",
+    "architecture",
+    "tooling",
+    "quickstart"
+  ],
+  "roles": [
+    "USER",
+    "DEVELOPER",
+    "ADMIN"
+  ],
+  "published": true,
+  "createdBy": {
+    "email": "system@reactory.net"
+  }
+}
