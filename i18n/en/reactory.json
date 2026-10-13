@@ -1,6 +1,7 @@
 {
   "reactory.application.title": "Reactory",
   "reactory.menu.myapplications": "My Applications",
+  "reactory.menu.my-comments": "My Comments",
   "reactory.menu.documentation": "Documentation",
   "reactory.menu.documentation-development-fundamentals": "Development Fundamentals",
   "reactory.menu.documentation-development-server": "Module Development",
@@ -48,6 +49,7 @@
   "reactory.menu.ai-admin-budgets": "User Budgets",
   "reactory.menu.ai-admin-usage": "Usage Dashboards",
   "reactory.menu.my-ai-usage": "My AI Usage",
+  "reactory.menu.my-ai-budget": "My AI Budget",
   "reactory.menu.my-schedule": "Schedule",
   "reactory.menu.my-courses": "My Courses",
   "reactory.menu.my-tutors": "My Tutors",
