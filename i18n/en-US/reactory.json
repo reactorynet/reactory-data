@@ -107,5 +107,12 @@
   "reactory.menu.workflows-editor": "Workflow Editor",
   "reactory.menu.workflows-operations-dashboard": "Operations Dashboard",
   "reactory.menu.workflows-system-dashboard": "System Dashboard",
-  "reactory.menu.workflows-launch-workflow": "Launch Workflow"
+  "reactory.menu.workflows-launch-workflow": "Launch Workflow",
+  "support-ticket-delete-action": "Delete Ticket",
+  "support-ticket-delete-action-confirm": "Confirm delete",
+  "support-ticket-delete-action-error": "Error getting ticket",
+  "support-ticket-delete-action-no-ticket-id": "Ticket ID not provided",
+  "support-ticket-delete-action-permission-error": "Insufficient Permissions to delete this ticket",
+  "support-ticket-delete-action-ticket-confirm-message": "Please confirm that you want to delete this ticket",
+  "support-ticket-delete-action-ticket-ref": "Ticket ref: {{ticketRef}}"
 }
