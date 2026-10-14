@@ -1,3 +1,9 @@
 {
-  "reactory.brand.slogan": "Prototipe. Verbeter. Herhaal."
+  "reactory.brand.slogan": "Prototipe. Verbeter. Herhaal.",
+  "common.search": "Soek",
+  "table.collapseAll": "Vou Alles Toe",
+  "table.expandAll": "Vou Alles Oop",
+  "table.deselectAll": "Ontkies Alles",
+  "table.selectAll": "Kies Alles",
+  "reactory.validation.required": "Verpligtend"
 }

@@ -1,0 +1,78 @@
+{
+  "socialeyes.application.title": "SocialEyes",
+  
+  "socialeyes.menu.dashboard": "Dashboard",
+  
+  "socialeyes.menu.social-accounts": "Social Accounts",
+  "socialeyes.menu.accounts-connected": "Connected Accounts",
+  "socialeyes.menu.accounts-connect-new": "Connect New Account",
+  "socialeyes.menu.accounts-x-twitter": "X (Twitter)",
+  "socialeyes.menu.accounts-reddit": "Reddit",
+  "socialeyes.menu.accounts-facebook": "Facebook",
+  "socialeyes.menu.accounts-instagram": "Instagram",
+  
+  "socialeyes.menu.listening": "Social Listening",
+  "socialeyes.menu.listening-active": "Active Listeners",
+  "socialeyes.menu.listening-create": "Create New Listener",
+  "socialeyes.menu.listening-keywords": "Keywords",
+  "socialeyes.menu.listening-hashtags": "Hashtags",
+  "socialeyes.menu.listening-mentions": "Mentions",
+  
+  "socialeyes.menu.messages": "Messages",
+  "socialeyes.menu.messages-inbox": "Inbox",
+  "socialeyes.menu.messages-sent": "Sent Messages",
+  "socialeyes.menu.messages-drafts": "Drafts",
+  "socialeyes.menu.messages-ai-review": "AI Review Queue",
+  "socialeyes.menu.messages-escalated": "Escalated Messages",
+  
+  "socialeyes.menu.feed": "Social Feed",
+  "socialeyes.menu.feed-all": "All Posts",
+  "socialeyes.menu.feed-by-platform": "Filter by Platform",
+  "socialeyes.menu.feed-saved": "Saved Posts",
+  
+  "socialeyes.menu.takedowns": "Takedown Requests",
+  "socialeyes.menu.takedowns-active": "Active Requests",
+  "socialeyes.menu.takedowns-submit-new": "Submit New Request",
+  "socialeyes.menu.takedowns-resolved": "Resolved Requests",
+  "socialeyes.menu.takedowns-impersonation": "Impersonation Reports",
+  "socialeyes.menu.takedowns-copyright": "Copyright Violations",
+  
+  "socialeyes.menu.analytics": "Analytics",
+  "socialeyes.menu.analytics-overview": "Overview",
+  "socialeyes.menu.analytics-sentiment": "Sentiment Analysis",
+  "socialeyes.menu.analytics-trends": "Trends",
+  "socialeyes.menu.analytics-engagement": "Engagement Metrics",
+  "socialeyes.menu.analytics-reports": "Reports",
+  
+  "socialeyes.menu.workflows": "Workflows",
+  "socialeyes.menu.workflows-dm-processing": "DM Processing",
+  "socialeyes.menu.workflows-takedown-automation": "Takedown Automation",
+  "socialeyes.menu.workflows-listening-orchestration": "Listening Orchestration",
+  "socialeyes.menu.workflows-sentiment-pipeline": "Sentiment Analysis Pipeline",
+  "socialeyes.menu.workflows-custom": "Custom Workflows",
+  
+  "socialeyes.menu.ai-assistant": "AI Assistant",
+  "socialeyes.menu.ai-chat": "AI Chat",
+  "socialeyes.menu.ai-response-templates": "Response Templates",
+  "socialeyes.menu.ai-brand-voice": "Brand Voice Settings",
+  
+  "socialeyes.menu.settings": "Settings",
+  "socialeyes.menu.settings-general": "General Settings",
+  "socialeyes.menu.settings-notifications": "Notifications",
+  "socialeyes.menu.settings-automation": "Automation Rules",
+  "socialeyes.menu.settings-api-keys": "API Keys",
+  "socialeyes.menu.settings-users-roles": "Users & Roles",
+  
+  "socialeyes.menu.developer": "Developer Tools",
+  "socialeyes.menu.developer-graphiql": "GraphiQL",
+  "socialeyes.menu.developer-api-docs": "API Documentation",
+  "socialeyes.menu.developer-webhooks": "Webhooks",
+  "socialeyes.menu.developer-event-logs": "Event Logs",
+  
+  "socialeyes.menu.support": "Support",
+  "socialeyes.menu.support-documentation": "Documentation",
+  "socialeyes.menu.support-faq": "FAQ",
+  "socialeyes.menu.support-contact": "Contact Support",
+  
+  "socialeyes.menu.about": "About SocialEyes"
+}
