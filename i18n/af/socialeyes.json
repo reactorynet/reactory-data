@@ -1,0 +1,78 @@
+{
+  "socialeyes.application.title": "SocialEyes",
+  
+  "socialeyes.menu.dashboard": "Paneelbord",
+  
+  "socialeyes.menu.social-accounts": "Sosiale Rekeninge",
+  "socialeyes.menu.accounts-connected": "Gekoppelde Rekeninge",
+  "socialeyes.menu.accounts-connect-new": "Koppel Nuwe Rekening",
+  "socialeyes.menu.accounts-x-twitter": "X (Twitter)",
+  "socialeyes.menu.accounts-reddit": "Reddit",
+  "socialeyes.menu.accounts-facebook": "Facebook",
+  "socialeyes.menu.accounts-instagram": "Instagram",
+  
+  "socialeyes.menu.listening": "Sosiale Monitering",
+  "socialeyes.menu.listening-active": "Aktiewe Moniteerders",
+  "socialeyes.menu.listening-create": "Skep Nuwe Moniteerder",
+  "socialeyes.menu.listening-keywords": "Sleutelwoorde",
+  "socialeyes.menu.listening-hashtags": "Hashtags",
+  "socialeyes.menu.listening-mentions": "Vermeldings",
+  
+  "socialeyes.menu.messages": "Boodskappe",
+  "socialeyes.menu.messages-inbox": "Inboks",
+  "socialeyes.menu.messages-sent": "Gestuurde Boodskappe",
+  "socialeyes.menu.messages-drafts": "Konsepte",
+  "socialeyes.menu.messages-ai-review": "KI-Nasientou",
+  "socialeyes.menu.messages-escalated": "Geeskaleerde Boodskappe",
+  
+  "socialeyes.menu.feed": "Sosiale Stroom",
+  "socialeyes.menu.feed-all": "Alle Plasings",
+  "socialeyes.menu.feed-by-platform": "Filtreer volgens Platform",
+  "socialeyes.menu.feed-saved": "Gestoor Plasings",
+  
+  "socialeyes.menu.takedowns": "Verwyderingsversoeke",
+  "socialeyes.menu.takedowns-active": "Aktiewe Versoeke",
+  "socialeyes.menu.takedowns-submit-new": "Dien Nuwe Versoek In",
+  "socialeyes.menu.takedowns-resolved": "Opgeloste Versoeke",
+  "socialeyes.menu.takedowns-impersonation": "Nabootsingsverslae",
+  "socialeyes.menu.takedowns-copyright": "Kopieregskendings",
+  
+  "socialeyes.menu.analytics": "Analise",
+  "socialeyes.menu.analytics-overview": "Oorsig",
+  "socialeyes.menu.analytics-sentiment": "Sentimentanalise",
+  "socialeyes.menu.analytics-trends": "Neigings",
+  "socialeyes.menu.analytics-engagement": "Betrokkenheidsmaatstawwe",
+  "socialeyes.menu.analytics-reports": "Verslae",
+  
+  "socialeyes.menu.workflows": "Werkvloei",
+  "socialeyes.menu.workflows-dm-processing": "Direkte Boodskap-verwerking",
+  "socialeyes.menu.workflows-takedown-automation": "Verwyderings-outomatisering",
+  "socialeyes.menu.workflows-listening-orchestration": "Monitering-orkestrasie",
+  "socialeyes.menu.workflows-sentiment-pipeline": "Sentimentanalise-pyplyn",
+  "socialeyes.menu.workflows-custom": "Pasgemaakte Werkvloei",
+  
+  "socialeyes.menu.ai-assistant": "KI-assistent",
+  "socialeyes.menu.ai-chat": "KI-klets",
+  "socialeyes.menu.ai-response-templates": "Antwoordsjablone",
+  "socialeyes.menu.ai-brand-voice": "Handelsmerkstem-instellings",
+  
+  "socialeyes.menu.settings": "Instellings",
+  "socialeyes.menu.settings-general": "Algemene Instellings",
+  "socialeyes.menu.settings-notifications": "Kennisgewings",
+  "socialeyes.menu.settings-automation": "Outomatiseringsreëls",
+  "socialeyes.menu.settings-api-keys": "API-sleutels",
+  "socialeyes.menu.settings-users-roles": "Gebruikers & Rolle",
+  
+  "socialeyes.menu.developer": "Ontwikkelaargereedskap",
+  "socialeyes.menu.developer-graphiql": "GraphiQL",
+  "socialeyes.menu.developer-api-docs": "API-dokumentasie",
+  "socialeyes.menu.developer-webhooks": "Webhooks",
+  "socialeyes.menu.developer-event-logs": "Gebeurtenislogboeke",
+  
+  "socialeyes.menu.support": "Ondersteuning",
+  "socialeyes.menu.support-documentation": "Dokumentasie",
+  "socialeyes.menu.support-faq": "Gereelde Vrae",
+  "socialeyes.menu.support-contact": "Kontak Ondersteuning",
+  
+  "socialeyes.menu.about": "Oor SocialEyes"
+}
