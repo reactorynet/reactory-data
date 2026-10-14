@@ -1,0 +1,9 @@
+{
+  "applicationTitle": "Anwendungen",
+  "reactory.applications.title": "Meine Anwendungen",
+  "reactory.applications.available": "Aktivierte Anwendungen",
+  "reactory.applications.properties.title": "Anwendungsname",
+  "reactory.applications.properties.greeting": "Willkommen in Ihrem Anwendungs-Dashboard {{user.firstName}}",
+  "confirm.deleteticketsaction.dialog.content": "Die {{selected.length}} ausgewählten Tickets löschen",
+  "confirm.deleteticketsaction.dialog.title": "Ticket-Löschung bestätigen"
+}

@@ -1,0 +1,9 @@
+{
+  "applicationTitle": "Applicaties",
+  "reactory.applications.title": "Mijn Applicaties",
+  "reactory.applications.available": "Ingeschakelde Applicaties",
+  "reactory.applications.properties.title": "Applicatienaam",
+  "reactory.applications.properties.greeting": "Welkom bij je applicatiedashboard {{user.firstName}}",
+  "confirm.deleteticketsaction.dialog.content": "Verwijder de {{selected.length}} geselecteerde tickets",
+  "confirm.deleteticketsaction.dialog.title": "Tickets verwijderen bevestigen"
+}

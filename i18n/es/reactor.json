@@ -1,0 +1,9 @@
+{
+  "project-grid.create-new-project-button.title": "Crear Nuevo Proyecto",
+  "project-grid.create-new-project-button.tooltip": "Ve aquí para crear un nuevo proyecto",
+  "reactor.client.chat.toolsCompleted": "Herramientas completadas: {{tools}}",
+  "reactor.client.chat.callingTool": "Llamando a la herramienta: {{tool}}",
+  "reactor.client.chat.callingTools": "Llamando a las herramientas: {{tools}}",
+  "reactor.client.chat.toolResultsSummary": "{{count}} llamadas a herramientas completadas",
+  "reactor.client.chat.noContent": "Sin contenido"
+}

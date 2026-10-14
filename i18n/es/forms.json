@@ -1,0 +1,9 @@
+{
+  "applicationTitle": "Aplicaciones",
+  "reactory.applications.title": "Mis Aplicaciones",
+  "reactory.applications.available": "Aplicaciones Habilitadas",
+  "reactory.applications.properties.title": "Nombre de la aplicación",
+  "reactory.applications.properties.greeting": "Bienvenido a tu panel de aplicaciones {{user.firstName}}",
+  "confirm.deleteticketsaction.dialog.content": "Eliminar los {{selected.length}} tickets seleccionados",
+  "confirm.deleteticketsaction.dialog.title": "Confirmar eliminación de tickets"
+}
