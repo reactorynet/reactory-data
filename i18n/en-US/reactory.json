@@ -40,6 +40,8 @@
   "reactory.applications.more-user": "Learn More",
   "reactory.applications.more-admin": "Manage",
   "reactory.applications.launch": "Launch App",
+  "reactory.applications.expand": "Show more",
+  "reactory.applications.collapse": "Show less",
   "reactory.menu.my-schedule": "Schedule",
   "reactory.menu.my-courses": "My Courses",
   "reactory.menu.my-tutors": "My Tutors",

@@ -28,6 +28,8 @@
   "reactory.applications.more-user": "Más Información",
   "reactory.applications.more-admin": "Gestionar",
   "reactory.applications.launch": "Iniciar Aplicación",
+  "reactory.applications.expand": "Mostrar Más",
+  "reactory.applications.collapse": "Mostrar Menos",
   "reactory.menu.reactor": "Reactory Reactor",
   "reactory.menu.reactor-chat": "Chat de Agentes",
   "reactory.menu.reactor-projects": "Proyectos de Reactor",

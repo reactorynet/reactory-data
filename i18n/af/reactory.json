@@ -41,6 +41,8 @@
   "reactory.applications.more-user": "Leer Meer",
   "reactory.applications.more-admin": "Bestuur",
   "reactory.applications.launch": "Begin Toep",
+  "reactory.applications.expand": "Wys Meer",
+  "reactory.applications.collapse": "Wys Minder",
   "support-ticket.model.title": "Kaartjie",
   "support-ticket.model.description": "Bestuur 'n ondersteuningskaartjie",
   "support-ticket.model.id.title": "Kaartjie ID",
