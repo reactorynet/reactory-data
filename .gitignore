@@ -21,9 +21,19 @@ content/static-content/*
 !content/static-content/reactory-marketing-website*
 database/*
 !database/readme.md
-i18n/*
-!i18n/readme.md
-!i18n/*/reactory.json
+# Translation bundles are versioned: every locale folder and every namespace
+# file in it is tracked, so adding a locale or a namespace is a reviewable
+# change.
+#
+# The previous rule was `i18n/*` with `!i18n/*/reactory.json` to re-include one
+# file per locale. That could never work: git does not descend into an ignored
+# *directory*, so the re-include was unreachable and every new file under
+# `i18n/` had to be `git add -f`-ed. The files already tracked only survive
+# because they predate the rule. Ignore the generated artefacts by name
+# instead, and let the bundles themselves be tracked.
+i18n/**/*.missing.json
+i18n/**/*.tmp
+i18n/**/*.bak
 imports/*
 !imports/readme.md
 lib/*
