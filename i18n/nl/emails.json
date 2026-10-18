@@ -1,0 +1,11 @@
+{
+  "emails.activation.subject": "Welkom bij {{applicationTitle}} {{firstName}}, bevestig je account",
+  "emails.activation.intro": "Welkom bij {{applicationTitle}}.",
+  "emails.activation.instructions": "Neem even de tijd om je registratie te voltooien via de link hieronder",
+  "emails.activation.linkLabel": "Registratie voltooien",
+  "emails.forgotPassword.subject": "Volg de stappen hieronder om je wachtwoord voor {{applicationTitle}} opnieuw in te stellen.",
+  "emails.forgotPassword.intro": "Hallo {{firstName}}",
+  "emails.forgotPassword.requested": "Je hebt een wachtwoordherstel aangevraagd voor {{applicationTitle}}.",
+  "emails.forgotPassword.instructions": "Hieronder staat een link waarmee je je wachtwoord opnieuw kunt instellen",
+  "emails.forgotPassword.linkLabel": "Wachtwoord opnieuw instellen"
+}

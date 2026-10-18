@@ -1,0 +1,11 @@
+{
+  "emails.activation.subject": "Benvenuto in {{applicationTitle}} {{firstName}}, conferma il tuo account",
+  "emails.activation.intro": "Benvenuto in {{applicationTitle}}.",
+  "emails.activation.instructions": "Prenditi un momento per completare la registrazione cliccando sul link qui sotto",
+  "emails.activation.linkLabel": "Completa la registrazione",
+  "emails.forgotPassword.subject": "Segui i passaggi seguenti per reimpostare la password per {{applicationTitle}}.",
+  "emails.forgotPassword.intro": "Ciao {{firstName}}",
+  "emails.forgotPassword.requested": "Hai richiesto la reimpostazione della password per {{applicationTitle}}.",
+  "emails.forgotPassword.instructions": "Qui sotto trovi un link per reimpostare la password",
+  "emails.forgotPassword.linkLabel": "Reimposta la password"
+}

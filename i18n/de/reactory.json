@@ -116,5 +116,6 @@
   "support-ticket-delete-action-no-ticket-id": "Ticket-ID nicht angegeben",
   "support-ticket-delete-action-permission-error": "Unzureichende Berechtigungen zum Löschen dieses Tickets",
   "support-ticket-delete-action-ticket-confirm-message": "Bitte bestätigen Sie, dass Sie dieses Ticket löschen möchten",
-  "support-ticket-delete-action-ticket-ref": "Ticket-Referenz: {{ticketRef}}"
+  "support-ticket-delete-action-ticket-ref": "Ticket-Referenz: {{ticketRef}}",
+  "reactory.organizations.error_loading": "Fehler beim Laden der Organisationen"
 }

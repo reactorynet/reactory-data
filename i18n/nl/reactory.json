@@ -116,5 +116,6 @@
   "support-ticket-delete-action-no-ticket-id": "Ticket-ID niet opgegeven",
   "support-ticket-delete-action-permission-error": "Onvoldoende rechten om dit ticket te verwijderen",
   "support-ticket-delete-action-ticket-confirm-message": "Bevestig dat u dit ticket wilt verwijderen",
-  "support-ticket-delete-action-ticket-ref": "Ticketreferentie: {{ticketRef}}"
+  "support-ticket-delete-action-ticket-ref": "Ticketreferentie: {{ticketRef}}",
+  "reactory.organizations.error_loading": "Fout bij het laden van organisaties"
 }

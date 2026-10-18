@@ -4,6 +4,12 @@
   "reactor.client.chat.toolsCompleted": "Outils terminés : {{tools}}",
   "reactor.client.chat.callingTool": "Appel de l'outil : {{tool}}",
   "reactor.client.chat.callingTools": "Appel des outils : {{tools}}",
-  "reactor.client.chat.toolResultsSummary": "{{count}} appels d'outils terminés",
-  "reactor.client.chat.noContent": "Aucun contenu"
+  "reactor.client.chat.toolResultsSummary_one": "{{count}} appel d'outil terminé",
+  "reactor.client.chat.toolResultsSummary_other": "{{count}} appels d'outils terminés",
+  "reactor.client.chat.noContent": "Aucun contenu",
+  "reactor.client.notFound.noComponentData": "Aucune donnée de composant disponible",
+  "reactor.client.graphExplorer.filter.nodeTypes": "Types de nœuds",
+  "reactor.client.graphExplorer.filter.clear": "Effacer",
+  "reactor.client.workflow.approval.rejectionReason": "Motif du rejet",
+  "reactor.client.workflow.approval.rejectionComments": "Commentaires de rejet"
 }

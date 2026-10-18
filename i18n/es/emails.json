@@ -1,0 +1,11 @@
+{
+  "emails.activation.subject": "Bienvenido a {{applicationTitle}} {{firstName}}, confirma tu cuenta",
+  "emails.activation.intro": "Bienvenido a {{applicationTitle}}.",
+  "emails.activation.instructions": "Tómate un momento para completar tu registro haciendo clic en el enlace de abajo",
+  "emails.activation.linkLabel": "Completar registro",
+  "emails.forgotPassword.subject": "Sigue los pasos a continuación para restablecer tu contraseña de {{applicationTitle}}.",
+  "emails.forgotPassword.intro": "Hola, {{firstName}}",
+  "emails.forgotPassword.requested": "Has solicitado restablecer la contraseña de {{applicationTitle}}.",
+  "emails.forgotPassword.instructions": "A continuación tienes un enlace para restablecer tu contraseña",
+  "emails.forgotPassword.linkLabel": "Restablecer contraseña"
+}

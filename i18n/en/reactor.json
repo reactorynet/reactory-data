@@ -4,6 +4,12 @@
   "reactor.client.chat.toolsCompleted": "Completed tools: {{tools}}",
   "reactor.client.chat.callingTool": "Calling tool: {{tool}}",
   "reactor.client.chat.callingTools": "Calling tools: {{tools}}",
-  "reactor.client.chat.toolResultsSummary": "Completed {{count}} tool calls",
-  "reactor.client.chat.noContent": "No content"
+  "reactor.client.chat.toolResultsSummary_one": "Completed {{count}} tool call",
+  "reactor.client.chat.toolResultsSummary_other": "Completed {{count}} tool calls",
+  "reactor.client.chat.noContent": "No content",
+  "reactor.client.notFound.noComponentData": "No component data available",
+  "reactor.client.graphExplorer.filter.nodeTypes": "Node types",
+  "reactor.client.graphExplorer.filter.clear": "Clear",
+  "reactor.client.workflow.approval.rejectionReason": "Reason for Rejection",
+  "reactor.client.workflow.approval.rejectionComments": "Rejection Comments"
 }
