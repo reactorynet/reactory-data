@@ -116,5 +116,6 @@
   "support-ticket-delete-action-no-ticket-id": "Kaartjie-ID nie verskaf nie",
   "support-ticket-delete-action-permission-error": "Onvoldoende regte om hierdie kaartjie te verwyder",
   "support-ticket-delete-action-ticket-confirm-message": "Bevestig asseblief dat jy hierdie kaartjie wil verwyder",
-  "support-ticket-delete-action-ticket-ref": "Kaartjieverwysing: {{ticketRef}}"
+  "support-ticket-delete-action-ticket-ref": "Kaartjieverwysing: {{ticketRef}}",
+  "reactory.organizations.error_loading": "Fout met die laai van organisasies"
 }

@@ -1,16 +1,5 @@
-
-<style>
-  body {
-      font-size:13px; 
-      font-family:verdana;
-  };
-
-  p {
-      margin: 3px !important;
-  };
-</style>
-<div style="font-size:13px; font-family:verdana">
-  <p>Welcome to <%= applicationTitle %>.</p>
-  <p>Please take a moment to complete your registration by clicking on the link below</p>
+<div dir="<%= dir || 'ltr' %>">
+  <p><%= t('emails.activation.intro', { applicationTitle: applicationTitle }) %></p>
+  <p><%= t('emails.activation.instructions') %></p>
   <p><%= activationLink %></p>
 </div>

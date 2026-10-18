@@ -4,6 +4,12 @@
   "reactor.client.chat.toolsCompleted": "Voltooide gereedskap: {{tools}}",
   "reactor.client.chat.callingTool": "Roep gereedskap: {{tool}}",
   "reactor.client.chat.callingTools": "Roep gereedskap: {{tools}}",
-  "reactor.client.chat.toolResultsSummary": "{{count}} gereedskap-oproepe voltooi",
-  "reactor.client.chat.noContent": "Geen inhoud"
+  "reactor.client.chat.toolResultsSummary_one": "{{count}} gereedskap-oproep voltooi",
+  "reactor.client.chat.toolResultsSummary_other": "{{count}} gereedskap-oproepe voltooi",
+  "reactor.client.chat.noContent": "Geen inhoud",
+  "reactor.client.notFound.noComponentData": "Geen komponentdata beskikbaar nie",
+  "reactor.client.graphExplorer.filter.nodeTypes": "Nodtipes",
+  "reactor.client.graphExplorer.filter.clear": "Maak skoon",
+  "reactor.client.workflow.approval.rejectionReason": "Rede vir verwerping",
+  "reactor.client.workflow.approval.rejectionComments": "Verwerpingkommentaar"
 }

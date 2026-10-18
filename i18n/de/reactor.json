@@ -4,6 +4,12 @@
   "reactor.client.chat.toolsCompleted": "Abgeschlossene Tools: {{tools}}",
   "reactor.client.chat.callingTool": "Tool wird aufgerufen: {{tool}}",
   "reactor.client.chat.callingTools": "Tools werden aufgerufen: {{tools}}",
-  "reactor.client.chat.toolResultsSummary": "{{count}} Tool-Aufrufe abgeschlossen",
-  "reactor.client.chat.noContent": "Kein Inhalt"
+  "reactor.client.chat.toolResultsSummary_one": "{{count}} Tool-Aufruf abgeschlossen",
+  "reactor.client.chat.toolResultsSummary_other": "{{count}} Tool-Aufrufe abgeschlossen",
+  "reactor.client.chat.noContent": "Kein Inhalt",
+  "reactor.client.notFound.noComponentData": "Keine Komponentendaten verfügbar",
+  "reactor.client.graphExplorer.filter.nodeTypes": "Knotentypen",
+  "reactor.client.graphExplorer.filter.clear": "Zurücksetzen",
+  "reactor.client.workflow.approval.rejectionReason": "Grund für die Ablehnung",
+  "reactor.client.workflow.approval.rejectionComments": "Ablehnungskommentare"
 }

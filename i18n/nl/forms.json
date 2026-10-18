@@ -4,6 +4,7 @@
   "reactory.applications.available": "Ingeschakelde Applicaties",
   "reactory.applications.properties.title": "Applicatienaam",
   "reactory.applications.properties.greeting": "Welkom bij je applicatiedashboard {{user.firstName}}",
-  "confirm.deleteticketsaction.dialog.content": "Verwijder de {{selected.length}} geselecteerde tickets",
+  "confirm.deleteticketsaction.dialog.content_one": "Verwijder het {{count}} geselecteerde ticket",
+  "confirm.deleteticketsaction.dialog.content_other": "Verwijder de {{count}} geselecteerde tickets",
   "confirm.deleteticketsaction.dialog.title": "Tickets verwijderen bevestigen"
 }

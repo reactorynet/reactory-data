@@ -116,5 +116,6 @@
   "support-ticket-delete-action-no-ticket-id": "ID ticket non fornito",
   "support-ticket-delete-action-permission-error": "Permessi insufficienti per eliminare questo ticket",
   "support-ticket-delete-action-ticket-confirm-message": "Conferma di voler eliminare questo ticket",
-  "support-ticket-delete-action-ticket-ref": "Riferimento ticket: {{ticketRef}}"
+  "support-ticket-delete-action-ticket-ref": "Riferimento ticket: {{ticketRef}}",
+  "reactory.organizations.error_loading": "Errore durante il caricamento delle organizzazioni"
 }
